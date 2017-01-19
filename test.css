@@ -13,6 +13,10 @@ li{
 }
 #Header{
 	border: solid 8px black;
+	width = 500px;
+	margin-left; auto;
+	margin-right; auto;
+	margin-bottom; 10px;
 
 }
 #Header h1{
@@ -28,7 +32,11 @@ li{
 
 }
 #LeftNav{
-
+	border: solid 8px black;
+	width = 400;
+	margin-left; auto;
+	margin-right; auto;
+	margin-bottom; 10px;
 }
 #LeftNav img{
 
@@ -40,8 +48,12 @@ li{
 
 }
 #Content{
-
+	border: solid 8px black;
+	width = 700;
+	margin-left; auto;
+	margin-right; auto;
+	margin-bottom; 10px;
 }
 #Footer{
-
+	border: solid 8px black;
 }
