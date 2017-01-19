@@ -1,14 +1,18 @@
 body{
-
+	background-image: url(footer_lodyas.png);
 }
 
 p{
+	color: white;
+	font-family: "Arial";
 
 }
 h3{
 
 }
 li{
+	list-style-type: none;
+	padding-left: 0px;
 
 }
 #Header{
@@ -21,6 +25,11 @@ li{
 
 }
 #Header h1{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	
 
 }
 #Header img{
@@ -40,6 +49,7 @@ li{
 	margin-bottom: 10px;
 	float: left;
 	text-align: center;
+	padding-bottom: 8px;
 }
 #LeftNav img{
 
@@ -57,6 +67,7 @@ li{
 	margin-right: auto;
 	margin-bottom: 10px;
 	text-align: center;
+	padding: 15px;
 }
 #Footer{
 	border: solid 8px black;
